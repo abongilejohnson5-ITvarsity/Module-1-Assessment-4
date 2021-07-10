@@ -1,0 +1,31 @@
+
+h1{
+	background-color:#F1F1F1;
+	text-align:center;
+	padding: 20px;
+}
+		
+table{
+	font-family:Helvetica, sans-serif;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: HotPink;
+	width:40%;
+}
+th{
+	font-weight    : 800;
+	background-color:HotPink;
+	color	       : black;
+	height:70%;
+	padding:15px;
+}
+td{
+	height:30px;
+	vertical-align:bottom;
+}
+
+tr:hover{background-color:#F1F1F1;}
+
+
+
